@@ -9,3 +9,5 @@ For configuration please edit this area in the code:
 * structures = True
 * seeds = None  # The Gen Seed (None = Random)
 * GenType = 5  # 5 - Archipelago / 6 - Continent
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/map.jpg?raw=true)
