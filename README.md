@@ -1,7 +1,7 @@
 # MapGen
 Map Generator for RPG Games.
 
-Based in Procedural Generation and Image Edit.
+Based in Procedural Generation and Auto Image Edit.
 
 For configuration please edit this area in the code:
 
